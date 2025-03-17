@@ -1,5 +1,5 @@
 # Amigo Secreto 🎁
-/assets/sistema.png
+![Vista previa del proyecto](assets/sistema.png)
 
 ¡Bienvenido a **Amigo Secreto**! Este proyecto te ayuda a organizar y sortear amigos secretos de forma sencilla y divertida. Con una interfaz intuitiva, puedes agregar amigos, visualizar la lista en tiempo real y realizar un sorteo para elegir al ganador. 🎉
 
@@ -51,7 +51,8 @@ Interactúa:
 
 🎨 Captura de pantalla
 
-- imagen: /assets/sistema.png
+![Vista previa del proyecto](assets/sistema.png)
+
 
 ## 🌟 Créditos
 - Amigo Secreto fue desarrollado por **AnderCodev** Inspirado en la idea de crear sorteos de manera divertida y fácil.
