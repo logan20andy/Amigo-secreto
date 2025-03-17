@@ -27,6 +27,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.icono {
+    width: 40px;
+    height: 40px;
+    fill: currentColor;
+}
+
+
 .main-content {
     display: flex;
     flex-direction: column;
@@ -90,7 +97,7 @@ body {
 }
 
 .input-name {
-    width: 90%;
+    width: 100%;
     padding: 10px;
     border: 2px solid var(--color-primary);
     border-radius: 25px 0 0 25px;
@@ -191,5 +198,28 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+
+.footer-banner {
+    background-color: var(--color-primary); 
+    color: #ecf0f1; 
+    padding: 20px 10px; 
+    text-align: center; 
+    font-family: 'Poppins', sans-serif; 
+    font-size: 14px; 
+    border-top: 5px solid #76d5ff; 
+    box-shadow: 0 -3px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.footer-banner a {
+    color: #36bbff; 
+    text-decoration: none; 
+    font-weight: 600; 
+    transition: color 0.3s ease; 
+}
+
+.footer-banner a:hover {
+    color:  #f4e327; 
 }
 

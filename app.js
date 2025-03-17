@@ -34,7 +34,7 @@ function sortearAmigo() {
         const ganador = amigos[indiceGanador];
 
         // Muestra el ganador en la vista
-        resultado.innerHTML = `<li>El ganador es: <strong>${ganador}</strong> 🎉</li>`;
+        resultado.innerHTML = `<li> <i class="fa-solid fa-trophy"></i> El ganador es: <strong>${ganador}</strong> 🎉</li>`;
     } else {
         alert("No hay amigos en la lista para sortear. Agrega al menos uno.");
     }
